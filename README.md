@@ -1,5 +1,10 @@
 # 🏟️ ProyectoDataStreaming - Plataforma de Inicio
 
+¡Bienvenid@ a `ProyectoDataStreaming`!  
+Este repositorio es tu punto de partida para explorar, colaborar y desplegar soluciones de análisis en tiempo real sobre Azure de forma completamente automatizada.
+
+---
+
 ![Imagen Representativa del Proyecto](/imagenes/DSA.png)
 
 ---
@@ -8,9 +13,9 @@
 
 | Foto | Nombre | Rol |
 |------|--------|-----|
-| ![Foto de perfil de Javi](https://avatars.githubusercontent.com/u/207551147?v=4) | Javier Martínez García | Owner |
-| ![Foto de perfil de Antonio](https://avatars.githubusercontent.com/u/usuario2?v=4) | Antonio Jesús Robles Ruíz | Colaborador |
-| ![Foto de perfil de Lucía](https://avatars.githubusercontent.com/u/usuario3?v=4) | Lucía Nieto Reus | Colaborador |
+| ![Foto de perfil de Javi](https://avatars.githubusercontent.com/u/207551147?v=4) | **Javier Martínez García** | 🛠️ Owner |
+| ![Foto de perfil de Antonio](https://avatars.githubusercontent.com/u/usuario2?v=4) | **Antonio Jesús Robles Ruíz** | 👥 Colaborador |
+| ![Foto de perfil de Lucía](https://avatars.githubusercontent.com/u/usuario3?v=4) | **Lucía Nieto Reus** | 👥 Colaboradora |
 
 ---
 
@@ -70,9 +75,4 @@ Cada archivo contiene información que se transmite en tiempo real simulando un 
 - Definición de herramienta de visualización en tiempo real (Power BI, Grafana, etc.)
 - Optimización de performance en los pipelines de eventos
 - Implementación de alertas y monitoreo automático
-
----
-
-¡Bienvenid@ a `ProyectoDataStreaming`!  
-Este repositorio es tu punto de partida para explorar, colaborar y desplegar soluciones de análisis en tiempo real sobre Azure de forma completamente automatizada.
 
