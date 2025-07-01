@@ -1,6 +1,6 @@
 # 🏟️ ProyectoDataStreaming - Plataforma de Inicio
 
-![Imagen Representativa del Proyecto](ruta/a/tu/imagen.jpg)
+![Imagen Representativa del Proyecto](/imagenes/DSA.png)
 
 ---
 
