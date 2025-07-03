@@ -5,7 +5,7 @@ Este repositorio es tu punto de partida para explorar, colaborar y desplegar sol
 
 ---
 
-![Imagen Representativa del Proyecto](/imagenes/DSA.png)
+![Imagen Representativa del Proyecto](/imagenes/DSA.svg)
 
 ---
 
