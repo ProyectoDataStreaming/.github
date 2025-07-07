@@ -14,7 +14,7 @@ Este repositorio es tu punto de partida para explorar, colaborar y desplegar sol
 | Foto | Nombre | Rol |
 |------|--------|-----|
 | ![Foto de perfil de Javi](https://avatars.githubusercontent.com/u/207551147?v=4) | **Javier Martínez García** | 🛠️ Owner |
-| ![Foto de perfil de Lucía](https://avatars.githubusercontent.com/u/usuario3?v=4) | **Lucía Nieto Reus** | 👥 Colaboradora |
+| ![Foto de perfil de Lucía](https://avatars.githubusercontent.com/u/219634687?v=4) | **Lucía Nieto Reus** | 👥 Colaboradora |
 | ![Foto de perfil de Antonio](https://avatars.githubusercontent.com/u/215802436?v=4) | **Antonio Jesús Robles Ruíz** | 👥 Colaborador |
 
 
