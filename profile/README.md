@@ -4,21 +4,20 @@
 Este repositorio es tu punto de partida para explorar, colaborar y desplegar soluciones de análisis en tiempo real sobre Azure de forma completamente automatizada.
 
 ---
+## Contribuidores ✨
+
+Este proyecto existe gracias a todas las personas que contribuyen.
+
+| [<img src="https://github.com/javi-mg-repo.png" width="80" alt="javi-mg-repo" />](https://github.com/javi-mg-repo) | [<img src="https://github.com/lucianr9.png" width="80" alt="lucianr9" />](https://github.com/lucianr9) | [<img src="https://github.com/antonioviewnext.png" width="80" alt="antonioviewnext" />](https://github.com/antonioviewnext) |
+| :----------------------------------------------------------: | :-------------------------------------------------------: | :----------------------------------------------------------------: |
+|                  [@javi-mg-repo](https://github.com/javi-mg-repo)                  |               [@lucianr9](https://github.com/lucianr9)              |                  [@antonioviewnext](https://github.com/antonioviewnext)                  |
+
+---
 
 ![Imagen Representativa del Proyecto](/imagenes/DSA.svg)
 
 ---
 
-## 👥 Colaboradores
-
-| Foto | Nombre | Rol |
-|------|--------|-----|
-| ![Foto de perfil de Javi](https://avatars.githubusercontent.com/u/207551147?v=4) | **Javier Martínez García** | 🛠️ Owner |
-| ![Foto de perfil de Lucía](https://avatars.githubusercontent.com/u/219634687?v=4) | **Lucía Nieto Reus** | 👥 Colaboradora |
-| ![Foto de perfil de Antonio](https://avatars.githubusercontent.com/u/215802436?v=4) | **Antonio Jesús Robles Ruíz** | 👥 Colaborador |
-
-
----
 
 ## 🎯 Objetivo del Proyecto
 
